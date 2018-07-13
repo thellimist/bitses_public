@@ -7,7 +7,7 @@
 
 ## Consensus Algorithm
 
-https://github.com/demiculus/bpc_general/blob/master/level4sum/technology/Proof%20of%20Stake.md#cardano
+https://medium.com/@thellimist/how-proof-of-stake-work-in-different-blockchains-518da229f486
 
 ## Treasury 
 
