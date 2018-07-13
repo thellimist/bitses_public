@@ -19,7 +19,7 @@ NeoX is the most interesting one. Neo not only tries to solve public computation
 ## Issues
 
 - The current Neo voting system has a flaw where 1 NEO token is 1 vote and voting for self requires min 1000 Neo tokens however each bookkeeper has one vote after selection. Cartels can agree with each and vote each other. They'd hold a lot of bookkeeper seats with not a lot of tokens and it'll be very hard to get rid of them since their # of tokens will only increase. Tl;dr Neo is prune to cartels. 
-- Neo claims to solve Byzatium General Problem however they have a special transaction type named "IssueTransaction" which allows a single private key owned by NEO team to generate as many NEO as they want. This means that there is an emperor which can overwrite the generals. They don't solve the deecentralization problem.
+- Neo claims to solve Byzatium General Problem however they have a special transaction type named "IssueTransaction" which allows a single private key owned by NEO team to generate as many NEO as they want. This means that there is an emperor which can overwrite the generals. They don't solve the deecentralization problem. (Update: I've read some posts that this might not be the case) 
 - Since Neo is an Emperor and obligated to Chinese law, Chinese Government may have ultimate power on this blockchain.
 - There will only 1 to 2 dozens of bookkeepers. This allows faster blocks since less nodes need to have consensus however it also decreases the decentralization and openness part. 
 - Neo team stated they can support 1000tps however the simple ICOs have slowed down the network significantly. 
