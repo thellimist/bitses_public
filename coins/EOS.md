@@ -40,7 +40,7 @@ Block producers publish their available capacity for bandwidth, computation, and
 - There is a proper [way](https://github.com/EOSIO/Documentation/blob/84f3da2b7fac118618f1806a1aaca0410b9d29b7/TechnicalWhitePaper.md#upgrading-the-protocol--constitution) to upgrade protocol which takes 2-3 months.
 - EOS network vulnerable, as the nothing-at-stake problem remains unsolved.
 
-## Open Questions
+## Technical Open Questions
 0) No idea how [this](https://github.com/EOSIO/Documentation/blob/84f3da2b7fac118618f1806a1aaca0410b9d29b7/TechnicalWhitePaper.md#deterministic-parallel-execution-of-applications) works.
 
 1) How does smart contracts work?
