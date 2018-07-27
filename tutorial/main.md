@@ -1,23 +1,23 @@
 #Create Veo Wallet
 
 1. Go to [Zacks wallet - http://159.65.120.84:8080/wallet.html] (http://159.65.120.84:8080/wallet.html). Make sure this is the link and your not giving away your private key to someone. You can do this by accessing the wallet through [amoveo github page](https://github.com/zack-bitcoin/amoveo).
-![Amoveo Repo](/Users/demiryil/Desktop/tutorial/amoveo_repository.png)
+![Amoveo Repo](amoveo_repository.png)
 
-2. The wallet automatically generates you a private/public key. If you don't like your public key refresh the page. If you like your public key, click on "save private key to file" and make sure to save it securely.  ![Amoveo Repo](/Users/demiryil/Desktop/tutorial/zack_wallet_create_account.png)
+2. The wallet automatically generates you a private/public key. If you don't like your public key refresh the page. If you like your public key, click on "save private key to file" and make sure to save it securely.  ![Amoveo Repo](zack_wallet_create_account.png)
 
 #Deposit Veo
 
 1. Go to [Zacks wallet - http://159.65.120.84:8080/wallet.html] (http://159.65.120.84:8080/wallet.html). Make sure this is the link and your not giving away your private key to someone. You can do this by accessing the wallet through [amoveo github page](https://github.com/zack-bitcoin/amoveo).
-![Amoveo Repo](/Users/demiryil/Desktop/tutorial/amoveo_repository.png)
+![Amoveo Repo](amoveo_repository.png)
 
-2. Wait until the wallet loads all blocks. It shows loads them 5000 at a time so you'll know it is loaded when height isn't a number devisible by 5000. ![Amoveo Repo](/Users/demiryil/Desktop/tutorial/amoveo_light_wallet.png)
+2. Wait until the wallet loads all blocks. It shows loads them 5000 at a time so you'll know it is loaded when height isn't a number devisible by 5000. ![Amoveo Repo](amoveo_light_wallet.png)
 
 3. Upload your private key
 4. Check if your public key is correct. You can also track the history of your account by copy pasting your public key to [veoscan](http://veoscan.io/).
 
 5. Enter the amount you want to send. Make sure to leave some veo for the TX fee. Current fee is 0.00061657 VEO for sending and 0.00152118 VEO for creating an account. If the address you send doesn't have any VEO you will need to send create account fee. You can check out the most recent fees [here](https://veoscan.io/txs).
 
-6. Copy & Paste the pubkey which is given to your account in the [deposit section](https://amoveo.exchange/deposit/index). ![Amoveo Repo](/Users/demiryil/Desktop/tutorial/amoveo_exchange_deposit_veo.png) 
+6. Copy & Paste the pubkey which is given to your account in the [deposit section](https://amoveo.exchange/deposit/index). ![Amoveo Repo](amoveo_exchange_deposit_veo.png) 
 
 7. Press send.
 8. Check if your tx has been sent by using the explorers below. They may not be up to date so make sure to tech your tx in a few of them. 
@@ -44,7 +44,7 @@
 6. Check your withdraw status from [veoscan](http://veoscan.io/)
 
 
-![Amoveo Repo](/Users/demiryil/Desktop/tutorial/amoveo_exchange_withdraw_veo.png) 
+![Amoveo Repo](amoveo_exchange_withdraw_veo.png) 
 
 #Deposit Ether
 
