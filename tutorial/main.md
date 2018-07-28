@@ -1,11 +1,12 @@
-#Create Veo Wallet
+ 
+# Create Veo Wallet
 
 1. Go to [Zacks wallet - http://159.65.120.84:8080/wallet.html] (http://159.65.120.84:8080/wallet.html). Make sure this is the link and your not giving away your private key to someone. You can do this by accessing the wallet through [amoveo github page](https://github.com/zack-bitcoin/amoveo).
 ![Amoveo Repo](amoveo_repository.png)
 
 2. The wallet automatically generates you a private/public key. If you don't like your public key refresh the page. If you like your public key, click on "save private key to file" and make sure to save it securely.  ![Amoveo Repo](zack_wallet_create_account.png)
 
-#Deposit Veo
+# Deposit Veo
 
 1. Go to [Zacks wallet - http://159.65.120.84:8080/wallet.html] (http://159.65.120.84:8080/wallet.html). Make sure this is the link and your not giving away your private key to someone. You can do this by accessing the wallet through [amoveo github page](https://github.com/zack-bitcoin/amoveo).
 ![Amoveo Repo](amoveo_repository.png)
@@ -34,7 +35,7 @@
 10. Wait for the required amount of blocks to be mined before having your account credited.
 
 
-#Withdraw Veo
+# Withdraw Veo
 
 1. Find your Veo address. 
 2. Go to your [withdraw screen](https://amoveo.exchange/withdraw/index). 
@@ -45,11 +46,3 @@
 
 
 ![Amoveo Repo](amoveo_exchange_withdraw_veo.png) 
-
-#Deposit Ether
-
-######TODO
-
-#Withdraw Ether
-
-######TODO
